@@ -4,8 +4,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomWishlist.WebUI", "CustomWishlist.WebUI\CustomWishlist.WebUI.csproj", "{54C22C6D-3516-426F-881C-7FB53A6C3A3A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{07EC66C0-69CD-4A89-9BCF-7EA68C280B6F} = {07EC66C0-69CD-4A89-9BCF-7EA68C280B6F}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomWishlist.UnitTests", "CustomWishlist.UnitTests\CustomWishlist.UnitTests.csproj", "{F9F36C1D-CC87-49AC-A5CA-1944BD903813}"
+	ProjectSection(ProjectDependencies) = postProject
+		{54C22C6D-3516-426F-881C-7FB53A6C3A3A} = {54C22C6D-3516-426F-881C-7FB53A6C3A3A}
+		{07EC66C0-69CD-4A89-9BCF-7EA68C280B6F} = {07EC66C0-69CD-4A89-9BCF-7EA68C280B6F}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomWishlist.Domain", "CustomWishlist.Domain\CustomWishlist.Domain.csproj", "{07EC66C0-69CD-4A89-9BCF-7EA68C280B6F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +30,10 @@ Global
 		{F9F36C1D-CC87-49AC-A5CA-1944BD903813}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9F36C1D-CC87-49AC-A5CA-1944BD903813}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9F36C1D-CC87-49AC-A5CA-1944BD903813}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07EC66C0-69CD-4A89-9BCF-7EA68C280B6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07EC66C0-69CD-4A89-9BCF-7EA68C280B6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07EC66C0-69CD-4A89-9BCF-7EA68C280B6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07EC66C0-69CD-4A89-9BCF-7EA68C280B6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
