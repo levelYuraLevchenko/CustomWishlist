@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace CustomWishlist.Domain.Entities
 {
-    class Class1
+    public class Product
     {
+        public int ProductID { get; set; }
+        public string Name { get; set; }
+        public string Description { get; set; }
     }
 }
