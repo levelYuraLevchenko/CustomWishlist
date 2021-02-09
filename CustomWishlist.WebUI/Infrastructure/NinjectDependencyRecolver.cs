@@ -2,6 +2,10 @@
 using System.Collections.Generic;
 using System.Web.Mvc;
 using Ninject;
+using System.Linq;
+using Moq;
+using CustomWishlist.Domain.Abstract;
+using CustomWishlist.Domain.Entities;
 
 namespace CustomWishlist.WebUI.Infrastructure
 {
@@ -27,7 +31,14 @@ namespace CustomWishlist.WebUI.Infrastructure
 
         private void AddBindings()
         {
-            // привязки
+            Mock<IProductRepository> mock = new Mock<IProductRepository>();
+            mock.Setup(m => m.Products).Returns(new List<Product>
+            {
+                new Product { Name = "A", Price = 25},
+                new Product { Name = "B", Price = 50 },
+                new Product { Name = "C", Price = 5 }
+            });
+            kernel.Bind<IProductRepository>().ToConstant(mock.Object);
         }
     }
 }
