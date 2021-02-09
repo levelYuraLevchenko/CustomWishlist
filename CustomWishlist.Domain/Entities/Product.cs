@@ -1,4 +1,5 @@
-﻿
+﻿using System.Linq;
+
 namespace CustomWishlist.Domain.Entities
 {
     public class Product

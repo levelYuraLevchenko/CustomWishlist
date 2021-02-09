@@ -13,9 +13,14 @@ D:\ASP.NET MVC\CustomWishlist\CustomWishlist.Domain\bin\Debug\System.Web.Razor.x
 D:\ASP.NET MVC\CustomWishlist\CustomWishlist.Domain\bin\Debug\System.Web.WebPages.xml
 D:\ASP.NET MVC\CustomWishlist\CustomWishlist.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
 D:\ASP.NET MVC\CustomWishlist\CustomWishlist.Domain\bin\Debug\System.Web.WebPages.Razor.xml
-D:\ASP.NET MVC\CustomWishlist\CustomWishlist.Domain\bin\Debug\ru\System.Web.Mvc.resources.dll
 D:\ASP.NET MVC\CustomWishlist\CustomWishlist.Domain\obj\Debug\CustomWishlist.Domain.csprojAssemblyReference.cache
 D:\ASP.NET MVC\CustomWishlist\CustomWishlist.Domain\obj\Debug\CustomWishlist.Domain.csproj.CoreCompileInputs.cache
 D:\ASP.NET MVC\CustomWishlist\CustomWishlist.Domain\obj\Debug\CustomWishlist.Domain.csproj.CopyComplete
 D:\ASP.NET MVC\CustomWishlist\CustomWishlist.Domain\obj\Debug\CustomWishlist.Domain.dll
 D:\ASP.NET MVC\CustomWishlist\CustomWishlist.Domain\obj\Debug\CustomWishlist.Domain.pdb
+D:\ASP.NET MVC\CustomWishlist\CustomWishlist.Domain\bin\Debug\ru\System.Web.Helpers.resources.dll
+D:\ASP.NET MVC\CustomWishlist\CustomWishlist.Domain\bin\Debug\ru\System.Web.Mvc.resources.dll
+D:\ASP.NET MVC\CustomWishlist\CustomWishlist.Domain\bin\Debug\ru\System.Web.Razor.resources.dll
+D:\ASP.NET MVC\CustomWishlist\CustomWishlist.Domain\bin\Debug\ru\System.Web.WebPages.resources.dll
+D:\ASP.NET MVC\CustomWishlist\CustomWishlist.Domain\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+D:\ASP.NET MVC\CustomWishlist\CustomWishlist.Domain\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll

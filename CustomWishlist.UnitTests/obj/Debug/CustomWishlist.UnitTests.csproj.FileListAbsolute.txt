@@ -50,3 +50,10 @@ D:\ASP.NET MVC\CustomWishlist\CustomWishlist.UnitTests\obj\Debug\CustomWishlist.
 D:\ASP.NET MVC\CustomWishlist\CustomWishlist.UnitTests\obj\Debug\CustomWishlist.UnitTests.csproj.CopyComplete
 D:\ASP.NET MVC\CustomWishlist\CustomWishlist.UnitTests\obj\Debug\CustomWishlist.UnitTests.dll
 D:\ASP.NET MVC\CustomWishlist\CustomWishlist.UnitTests\obj\Debug\CustomWishlist.UnitTests.pdb
+D:\ASP.NET MVC\CustomWishlist\CustomWishlist.UnitTests\bin\Debug\CustomWishlist.Domain.dll
+D:\ASP.NET MVC\CustomWishlist\CustomWishlist.UnitTests\bin\Debug\CustomWishlist.WebUI.dll
+D:\ASP.NET MVC\CustomWishlist\CustomWishlist.UnitTests\bin\Debug\CustomWishlist.Domain.pdb
+D:\ASP.NET MVC\CustomWishlist\CustomWishlist.UnitTests\bin\Debug\CustomWishlist.WebUI.pdb
+D:\ASP.NET MVC\CustomWishlist\CustomWishlist.UnitTests\bin\Debug\CustomWishlist.WebUI.dll.config
+D:\ASP.NET MVC\CustomWishlist\CustomWishlist.UnitTests\bin\Debug\Ninject.Web.Common.WebHost.dll
+D:\ASP.NET MVC\CustomWishlist\CustomWishlist.UnitTests\bin\Debug\Ninject.Web.Common.WebHost.xml

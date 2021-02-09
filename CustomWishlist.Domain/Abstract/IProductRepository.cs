@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using CustomWishlist.Domain.Entities;
+using System.Linq;
 
 namespace CustomWishlist.Domain.Abstract
 {
