@@ -24,3 +24,8 @@ D:\ASP.NET MVC\CustomWishlist\CustomWishlist.Domain\bin\Debug\ru\System.Web.Razo
 D:\ASP.NET MVC\CustomWishlist\CustomWishlist.Domain\bin\Debug\ru\System.Web.WebPages.resources.dll
 D:\ASP.NET MVC\CustomWishlist\CustomWishlist.Domain\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
 D:\ASP.NET MVC\CustomWishlist\CustomWishlist.Domain\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+D:\ASP.NET MVC\CustomWishlist\CustomWishlist.Domain\bin\Debug\CustomWishlist.Domain.dll.config
+D:\ASP.NET MVC\CustomWishlist\CustomWishlist.Domain\bin\Debug\EntityFramework.dll
+D:\ASP.NET MVC\CustomWishlist\CustomWishlist.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\ASP.NET MVC\CustomWishlist\CustomWishlist.Domain\bin\Debug\EntityFramework.xml
+D:\ASP.NET MVC\CustomWishlist\CustomWishlist.Domain\bin\Debug\EntityFramework.SqlServer.xml

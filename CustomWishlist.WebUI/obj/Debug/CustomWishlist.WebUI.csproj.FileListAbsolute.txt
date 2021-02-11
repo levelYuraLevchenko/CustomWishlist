@@ -76,3 +76,8 @@ D:\ASP.NET MVC\CustomWishlist\CustomWishlist.WebUI\bin\roslyn\System.Numerics.Ve
 D:\ASP.NET MVC\CustomWishlist\CustomWishlist.WebUI\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
 D:\ASP.NET MVC\CustomWishlist\CustomWishlist.WebUI\bin\Ninject.Web.Common.WebHost.dll
 D:\ASP.NET MVC\CustomWishlist\CustomWishlist.WebUI\bin\Ninject.Web.Common.WebHost.xml
+D:\ASP.NET MVC\CustomWishlist\CustomWishlist.WebUI\bin\EntityFramework.dll
+D:\ASP.NET MVC\CustomWishlist\CustomWishlist.WebUI\bin\EntityFramework.SqlServer.dll
+D:\ASP.NET MVC\CustomWishlist\CustomWishlist.WebUI\bin\CustomWishlist.Domain.dll.config
+D:\ASP.NET MVC\CustomWishlist\CustomWishlist.WebUI\bin\EntityFramework.xml
+D:\ASP.NET MVC\CustomWishlist\CustomWishlist.WebUI\bin\EntityFramework.SqlServer.xml
