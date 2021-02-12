@@ -57,3 +57,6 @@ D:\ASP.NET MVC\CustomWishlist\CustomWishlist.UnitTests\bin\Debug\CustomWishlist.
 D:\ASP.NET MVC\CustomWishlist\CustomWishlist.UnitTests\bin\Debug\CustomWishlist.WebUI.dll.config
 D:\ASP.NET MVC\CustomWishlist\CustomWishlist.UnitTests\bin\Debug\Ninject.Web.Common.WebHost.dll
 D:\ASP.NET MVC\CustomWishlist\CustomWishlist.UnitTests\bin\Debug\Ninject.Web.Common.WebHost.xml
+D:\ASP.NET MVC\CustomWishlist\CustomWishlist.UnitTests\bin\Debug\EntityFramework.dll
+D:\ASP.NET MVC\CustomWishlist\CustomWishlist.UnitTests\bin\Debug\CustomWishlist.Domain.dll.config
+D:\ASP.NET MVC\CustomWishlist\CustomWishlist.UnitTests\bin\Debug\EntityFramework.xml
